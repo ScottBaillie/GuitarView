@@ -6,7 +6,7 @@ One function of the program is the use the search function to find chords and sc
 that match a user entered pattern.
 Another function of the program is to find different inversions of a user eneterd chord.
 Another function of the program is to provide a visual representation of chords and scales.
-Another function of the program is to assist in song writing by providing chord and scale alternatives and also providing alternative chord inversions.
+Another function of the program is to assist in song writing by providing chord and scale alternatives.
 
 Build Requirements
 ------------------
