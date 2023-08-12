@@ -8,6 +8,10 @@ Another function of the program is to find different inversions of a user eneter
 Another function of the program is to provide a visual representation of chords and scales.
 Another function of the program is to assist in song writing by providing chord and scale alternatives.
 
+Current Status
+--------------
+This is an alpha version, the search function works but many of the functions are not implemented yet.
+
 Build Requirements
 ------------------
 The gtkmm-devel package.
