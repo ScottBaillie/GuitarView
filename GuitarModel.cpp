@@ -86,6 +86,11 @@ GuitarModel::init_chordMap()
 	}
 	{
 		Chord c;
+		c.m_offset = { 3, 1, 6 };
+		m_chordMap["Hendrix Chord"] = c;
+	}
+	{
+		Chord c;
 		c.m_offset = { 4, 1 };
 		m_chordMap["Major flat5 Chord"] = c;
 	}
