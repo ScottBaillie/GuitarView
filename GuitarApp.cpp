@@ -40,7 +40,7 @@ GuitarApp::activate()
 	auto builder = Gtk::Builder::create();
 	try
 	{
-		builder->add_from_file("/home/sbaillie/projects/guitarApp/GuitarAppUi.ui");
+		builder->add_from_file("GuitarAppUi.ui");
 	}
 	catch (const Glib::Error& error)
 	{
