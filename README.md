@@ -13,7 +13,9 @@ Build Requirements
 The gtkmm-devel package.
 The pkg-config package.
 
-
+Build Instructions
+------------------
+make
 
 
 
