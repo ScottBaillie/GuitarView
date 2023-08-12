@@ -7,4 +7,8 @@ that match a user entered pattern.
 Another function of the program is to find different inversions of a user eneterd chord.
 Another function of the program is to provide a visual representation of chords and scales.
 
-NOTE : The gtkmm-devel package should be installed before building the application.
+Build Requirements
+------------------
+The gtkmm-devel package.
+The pkg-config package.
+
