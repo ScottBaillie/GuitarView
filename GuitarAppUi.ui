@@ -8,6 +8,7 @@
         <property name="orientation">vertical</property>
         <child>
           <object class="GtkBox">
+            <property name="vexpand">1</property>
             <child>
               <object class="GtkBox">
                 <property name="orientation">vertical</property>

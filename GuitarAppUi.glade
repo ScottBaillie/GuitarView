@@ -882,6 +882,7 @@
                                   <packing>
                                     <property name="expand">False</property>
                                     <property name="fill">True</property>
+                                    <property name="pack-type">end</property>
                                     <property name="position">2</property>
                                   </packing>
                                 </child>
@@ -1477,7 +1478,7 @@
             </child>
           </object>
           <packing>
-            <property name="expand">False</property>
+            <property name="expand">True</property>
             <property name="fill">True</property>
             <property name="position">0</property>
           </packing>
