@@ -1511,4 +1511,10 @@
       </object>
     </child>
   </object>
+  <object class="GtkPopoverMenu" id="neck_popover">
+    <property name="can-focus">False</property>
+    <child>
+      <placeholder/>
+    </child>
+  </object>
 </interface>

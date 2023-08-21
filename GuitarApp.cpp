@@ -58,7 +58,7 @@ GuitarApp::activate()
 
 	m_app->add_window(*pWindow);
 
-	m_guitarView.init(builder);
+	m_guitarView.init(builder, m_app);
 
 	pWindow->show();
 }

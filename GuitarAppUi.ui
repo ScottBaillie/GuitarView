@@ -811,4 +811,9 @@
       </object>
     </child>
   </object>
+  <object class="GtkPopoverMenu" id="neck_popover">
+    <child>
+      <placeholder/>
+    </child>
+  </object>
 </interface>
