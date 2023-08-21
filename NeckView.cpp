@@ -59,7 +59,6 @@ NeckView::init(Glib::RefPtr<Gtk::Builder> & builder, Glib::RefPtr<Gtk::Applicati
 
 	m_neckPopover->set_parent(*m_drawingArea);
 	// call unparent() to undo this.
-
 }
 
 //////////////////////////////////////////////////////////////////

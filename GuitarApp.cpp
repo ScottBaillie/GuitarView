@@ -11,6 +11,7 @@ public:
 
 private:
 	void activate();
+	void shutdown();
 
 private:
 	Glib::RefPtr<Gtk::Application> m_app;
@@ -25,6 +26,7 @@ GuitarApp::main(int argc, char**argv)
 	m_app = Gtk::Application::create();
 
 	m_app->signal_activate().connect(sigc::mem_fun(*this, &GuitarApp::activate));
+	m_app->signal_shutdown().connect(sigc::mem_fun(*this, &GuitarApp::shutdown));
 
 	int ret = m_app->run();
 
@@ -61,6 +63,14 @@ GuitarApp::activate()
 	m_guitarView.init(builder, m_app);
 
 	pWindow->show();
+}
+
+///////////////////////////////////////////////////////////////////
+
+void
+GuitarApp::shutdown()
+{
+	m_guitarView.shutdown();
 }
 
 ///////////////////////////////////////////////////////////////////

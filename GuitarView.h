@@ -208,6 +208,7 @@ public:
 	}
 
 	void init(Glib::RefPtr<Gtk::Builder> & builder, Glib::RefPtr<Gtk::Application> & app);
+	void shutdown();
 
 public:
 	Glib::RefPtr<Gtk::Builder>	m_builder;
