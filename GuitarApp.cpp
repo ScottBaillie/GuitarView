@@ -6,20 +6,6 @@
 
 ///////////////////////////////////////////////////////////////////
 
-// CSS Styles to apply to widgets.
-
-const std::string style = R"(
-    frame {
-        color: grey;
-        border-style:solid;
-        border-width: 4px;
-        border-color: grey;
-        background-color: white;
-    }
-)";
-
-///////////////////////////////////////////////////////////////////
-
 class GuitarApp
 {
 public:
@@ -79,7 +65,7 @@ GuitarApp::activate()
 	m_guitarView.init(builder, m_app);
 
 	auto css = Gtk::CssProvider::create();
-	css->load_from_data(style);
+	css->load_from_path("GuitarView.css");
 	Gtk::StyleContext::add_provider_for_display(pWindow->get_display(),css,GTK_STYLE_PROVIDER_PRIORITY_APPLICATION);
 
 	pWindow->show();
