@@ -61,46 +61,22 @@
                       </object>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">e1</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">e2</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">e3</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">e4</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">e5</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">e6</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
                       <placeholder/>
@@ -117,46 +93,22 @@
                       </object>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">s1</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">s2</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">s3</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">s4</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">s5</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">s6</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
                       <placeholder/>
@@ -173,46 +125,22 @@
                       </object>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">s1</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">s2</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">s3</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">s4</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">s5</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">s6</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
                       <placeholder/>
@@ -229,46 +157,22 @@
                       </object>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">c1</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">c2</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">c3</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">c4</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">c5</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="1">c6</property>
-                        <property name="focusable">1</property>
-                        <property name="receives-default">1</property>
-                      </object>
+                      <placeholder/>
                     </child>
                     <child>
                       <placeholder/>
@@ -348,70 +252,63 @@
                 <child>
                   <object class="GtkNotebookPage">
                     <property name="child">
-                      <object class="GtkFrame">
-                        <property name="child">
+                      <object class="GtkBox">
+                        <child>
                           <object class="GtkBox">
+                            <property name="orientation">vertical</property>
                             <child>
                               <object class="GtkBox">
-                                <property name="orientation">vertical</property>
                                 <child>
-                                  <object class="GtkBox">
-                                    <child>
-                                      <placeholder/>
-                                    </child>
-                                    <child>
-                                      <placeholder/>
-                                    </child>
-                                    <child>
-                                      <object class="GtkButton">
-                                        <property name="label" translatable="1">delete</property>
-                                        <property name="focusable">1</property>
-                                        <property name="receives-default">1</property>
-                                      </object>
-                                    </child>
-                                    <child>
-                                      <object class="GtkButton">
-                                        <property name="label" translatable="1">add</property>
-                                        <property name="focusable">1</property>
-                                        <property name="receives-default">1</property>
-                                      </object>
-                                    </child>
+                                  <placeholder/>
+                                </child>
+                                <child>
+                                  <placeholder/>
+                                </child>
+                                <child>
+                                  <object class="GtkButton">
+                                    <property name="label" translatable="1">delete</property>
+                                    <property name="focusable">1</property>
+                                    <property name="receives-default">1</property>
                                   </object>
                                 </child>
                                 <child>
-                                  <object class="GtkBox">
-                                    <child>
-                                      <placeholder/>
-                                    </child>
-                                    <child>
-                                      <object class="GtkButton" id="phy_apply">
-                                        <property name="label" translatable="1">apply</property>
-                                        <property name="focusable">1</property>
-                                        <property name="receives-default">1</property>
-                                      </object>
-                                    </child>
+                                  <object class="GtkButton">
+                                    <property name="label" translatable="1">add</property>
+                                    <property name="focusable">1</property>
+                                    <property name="receives-default">1</property>
                                   </object>
                                 </child>
                               </object>
                             </child>
                             <child>
-                              <object class="GtkScrolledWindow">
-                                <property name="hexpand">1</property>
-                                <property name="focusable">1</property>
-                                <property name="child">
-                                  <object class="GtkTreeView" id="phy_treeview">
+                              <object class="GtkBox">
+                                <child>
+                                  <placeholder/>
+                                </child>
+                                <child>
+                                  <object class="GtkButton" id="phy_apply">
+                                    <property name="label" translatable="1">apply</property>
                                     <property name="focusable">1</property>
-                                    <child internal-child="selection">
-                                      <object class="GtkTreeSelection"/>
-                                    </child>
+                                    <property name="receives-default">1</property>
                                   </object>
-                                </property>
+                                </child>
                               </object>
                             </child>
                           </object>
-                        </property>
-                        <child type="label">
-                          <object class="GtkLabel"/>
+                        </child>
+                        <child>
+                          <object class="GtkScrolledWindow">
+                            <property name="hexpand">1</property>
+                            <property name="focusable">1</property>
+                            <property name="child">
+                              <object class="GtkTreeView" id="phy_treeview">
+                                <property name="focusable">1</property>
+                                <child internal-child="selection">
+                                  <object class="GtkTreeSelection"/>
+                                </child>
+                              </object>
+                            </property>
+                          </object>
                         </child>
                       </object>
                     </property>
@@ -426,88 +323,81 @@
                   <object class="GtkNotebookPage">
                     <property name="position">1</property>
                     <property name="child">
-                      <object class="GtkFrame">
-                        <property name="child">
+                      <object class="GtkBox">
+                        <child>
                           <object class="GtkBox">
+                            <property name="orientation">vertical</property>
                             <child>
                               <object class="GtkBox">
-                                <property name="orientation">vertical</property>
                                 <child>
-                                  <object class="GtkBox">
-                                    <child>
-                                      <placeholder/>
-                                    </child>
-                                    <child>
-                                      <placeholder/>
-                                    </child>
-                                    <child>
-                                      <object class="GtkButton">
-                                        <property name="label" translatable="1">delete</property>
-                                        <property name="focusable">1</property>
-                                        <property name="receives-default">1</property>
-                                      </object>
-                                    </child>
-                                    <child>
-                                      <object class="GtkButton">
-                                        <property name="label" translatable="1">add</property>
-                                        <property name="focusable">1</property>
-                                        <property name="receives-default">1</property>
-                                      </object>
-                                    </child>
+                                  <placeholder/>
+                                </child>
+                                <child>
+                                  <placeholder/>
+                                </child>
+                                <child>
+                                  <object class="GtkButton">
+                                    <property name="label" translatable="1">delete</property>
+                                    <property name="focusable">1</property>
+                                    <property name="receives-default">1</property>
                                   </object>
                                 </child>
                                 <child>
-                                  <object class="GtkBox">
-                                    <child>
-                                      <placeholder/>
-                                    </child>
-                                    <child>
-                                      <object class="GtkButton" id="scales_apply">
-                                        <property name="label" translatable="1">apply</property>
-                                        <property name="focusable">1</property>
-                                        <property name="receives-default">1</property>
-                                      </object>
-                                    </child>
-                                    <child>
-                                      <object class="GtkComboBoxText" id="scales_note">
-                                        <items>
-                                          <item translatable="yes">A</item>
-                                          <item translatable="yes">A#</item>
-                                          <item translatable="yes">B</item>
-                                          <item translatable="yes">C</item>
-                                          <item translatable="yes">C#</item>
-                                          <item translatable="yes">D</item>
-                                          <item translatable="yes">D#</item>
-                                          <item translatable="yes">E</item>
-                                          <item translatable="yes">F</item>
-                                          <item translatable="yes">F#</item>
-                                          <item translatable="yes">G</item>
-                                          <item translatable="yes">G#</item>
-                                        </items>
-                                      </object>
-                                    </child>
+                                  <object class="GtkButton">
+                                    <property name="label" translatable="1">add</property>
+                                    <property name="focusable">1</property>
+                                    <property name="receives-default">1</property>
                                   </object>
                                 </child>
                               </object>
                             </child>
                             <child>
-                              <object class="GtkScrolledWindow">
-                                <property name="hexpand">1</property>
-                                <property name="focusable">1</property>
-                                <property name="child">
-                                  <object class="GtkTreeView" id="scales_treeview">
+                              <object class="GtkBox">
+                                <child>
+                                  <placeholder/>
+                                </child>
+                                <child>
+                                  <object class="GtkButton" id="scales_apply">
+                                    <property name="label" translatable="1">apply</property>
                                     <property name="focusable">1</property>
-                                    <child internal-child="selection">
-                                      <object class="GtkTreeSelection"/>
-                                    </child>
+                                    <property name="receives-default">1</property>
                                   </object>
-                                </property>
+                                </child>
+                                <child>
+                                  <object class="GtkComboBoxText" id="scales_note">
+                                    <items>
+                                      <item translatable="yes">A</item>
+                                      <item translatable="yes">A#</item>
+                                      <item translatable="yes">B</item>
+                                      <item translatable="yes">C</item>
+                                      <item translatable="yes">C#</item>
+                                      <item translatable="yes">D</item>
+                                      <item translatable="yes">D#</item>
+                                      <item translatable="yes">E</item>
+                                      <item translatable="yes">F</item>
+                                      <item translatable="yes">F#</item>
+                                      <item translatable="yes">G</item>
+                                      <item translatable="yes">G#</item>
+                                    </items>
+                                  </object>
+                                </child>
                               </object>
                             </child>
                           </object>
-                        </property>
-                        <child type="label">
-                          <object class="GtkLabel"/>
+                        </child>
+                        <child>
+                          <object class="GtkScrolledWindow">
+                            <property name="hexpand">1</property>
+                            <property name="focusable">1</property>
+                            <property name="child">
+                              <object class="GtkTreeView" id="scales_treeview">
+                                <property name="focusable">1</property>
+                                <child internal-child="selection">
+                                  <object class="GtkTreeSelection"/>
+                                </child>
+                              </object>
+                            </property>
+                          </object>
                         </child>
                       </object>
                     </property>
@@ -522,88 +412,81 @@
                   <object class="GtkNotebookPage">
                     <property name="position">2</property>
                     <property name="child">
-                      <object class="GtkFrame">
-                        <property name="child">
+                      <object class="GtkBox">
+                        <child>
                           <object class="GtkBox">
+                            <property name="orientation">vertical</property>
                             <child>
                               <object class="GtkBox">
-                                <property name="orientation">vertical</property>
                                 <child>
-                                  <object class="GtkBox">
-                                    <child>
-                                      <placeholder/>
-                                    </child>
-                                    <child>
-                                      <placeholder/>
-                                    </child>
-                                    <child>
-                                      <object class="GtkButton">
-                                        <property name="label" translatable="1">delete</property>
-                                        <property name="focusable">1</property>
-                                        <property name="receives-default">1</property>
-                                      </object>
-                                    </child>
-                                    <child>
-                                      <object class="GtkButton">
-                                        <property name="label" translatable="1">add</property>
-                                        <property name="focusable">1</property>
-                                        <property name="receives-default">1</property>
-                                      </object>
-                                    </child>
+                                  <placeholder/>
+                                </child>
+                                <child>
+                                  <placeholder/>
+                                </child>
+                                <child>
+                                  <object class="GtkButton">
+                                    <property name="label" translatable="1">delete</property>
+                                    <property name="focusable">1</property>
+                                    <property name="receives-default">1</property>
                                   </object>
                                 </child>
                                 <child>
-                                  <object class="GtkBox">
-                                    <child>
-                                      <placeholder/>
-                                    </child>
-                                    <child>
-                                      <object class="GtkButton" id="chords_apply">
-                                        <property name="label" translatable="1">apply</property>
-                                        <property name="focusable">1</property>
-                                        <property name="receives-default">1</property>
-                                      </object>
-                                    </child>
-                                    <child>
-                                      <object class="GtkComboBoxText" id="chords_note">
-                                        <items>
-                                          <item translatable="yes">A</item>
-                                          <item translatable="yes">A#</item>
-                                          <item translatable="yes">B</item>
-                                          <item translatable="yes">C</item>
-                                          <item translatable="yes">C#</item>
-                                          <item translatable="yes">D</item>
-                                          <item translatable="yes">D#</item>
-                                          <item translatable="yes">E</item>
-                                          <item translatable="yes">F</item>
-                                          <item translatable="yes">F#</item>
-                                          <item translatable="yes">G</item>
-                                          <item translatable="yes">G#</item>
-                                        </items>
-                                      </object>
-                                    </child>
+                                  <object class="GtkButton">
+                                    <property name="label" translatable="1">add</property>
+                                    <property name="focusable">1</property>
+                                    <property name="receives-default">1</property>
                                   </object>
                                 </child>
                               </object>
                             </child>
                             <child>
-                              <object class="GtkScrolledWindow">
-                                <property name="hexpand">1</property>
-                                <property name="focusable">1</property>
-                                <property name="child">
-                                  <object class="GtkTreeView" id="chords_treeview">
+                              <object class="GtkBox">
+                                <child>
+                                  <placeholder/>
+                                </child>
+                                <child>
+                                  <object class="GtkButton" id="chords_apply">
+                                    <property name="label" translatable="1">apply</property>
                                     <property name="focusable">1</property>
-                                    <child internal-child="selection">
-                                      <object class="GtkTreeSelection"/>
-                                    </child>
+                                    <property name="receives-default">1</property>
                                   </object>
-                                </property>
+                                </child>
+                                <child>
+                                  <object class="GtkComboBoxText" id="chords_note">
+                                    <items>
+                                      <item translatable="yes">A</item>
+                                      <item translatable="yes">A#</item>
+                                      <item translatable="yes">B</item>
+                                      <item translatable="yes">C</item>
+                                      <item translatable="yes">C#</item>
+                                      <item translatable="yes">D</item>
+                                      <item translatable="yes">D#</item>
+                                      <item translatable="yes">E</item>
+                                      <item translatable="yes">F</item>
+                                      <item translatable="yes">F#</item>
+                                      <item translatable="yes">G</item>
+                                      <item translatable="yes">G#</item>
+                                    </items>
+                                  </object>
+                                </child>
                               </object>
                             </child>
                           </object>
-                        </property>
-                        <child type="label">
-                          <object class="GtkLabel"/>
+                        </child>
+                        <child>
+                          <object class="GtkScrolledWindow">
+                            <property name="hexpand">1</property>
+                            <property name="focusable">1</property>
+                            <property name="child">
+                              <object class="GtkTreeView" id="chords_treeview">
+                                <property name="focusable">1</property>
+                                <child internal-child="selection">
+                                  <object class="GtkTreeSelection"/>
+                                </child>
+                              </object>
+                            </property>
+                          </object>
                         </child>
                       </object>
                     </property>
@@ -623,125 +506,118 @@
                         <child>
                           <object class="GtkNotebookPage">
                             <property name="child">
-                              <object class="GtkFrame">
-                                <property name="child">
+                              <object class="GtkBox">
+                                <child>
                                   <object class="GtkBox">
+                                    <property name="orientation">vertical</property>
                                     <child>
-                                      <object class="GtkBox">
-                                        <property name="orientation">vertical</property>
-                                        <child>
-                                          <object class="GtkCheckButton" id="search1_2">
-                                            <property name="label" translatable="1">2 note</property>
-                                            <property name="focusable">1</property>
-                                          </object>
-                                        </child>
-                                        <child>
-                                          <object class="GtkCheckButton" id="search1_3">
-                                            <property name="label" translatable="1">3 note</property>
-                                            <property name="focusable">1</property>
-                                          </object>
-                                        </child>
-                                        <child>
-                                          <object class="GtkCheckButton" id="search1_4">
-                                            <property name="label" translatable="1">4 note</property>
-                                            <property name="focusable">1</property>
-                                          </object>
-                                        </child>
-                                        <child>
-                                          <object class="GtkCheckButton" id="search1_5">
-                                            <property name="label" translatable="1">5 note</property>
-                                            <property name="focusable">1</property>
-                                          </object>
-                                        </child>
-                                        <child>
-                                          <object class="GtkCheckButton" id="search1_6">
-                                            <property name="label" translatable="1">6 note</property>
-                                            <property name="focusable">1</property>
-                                          </object>
-                                        </child>
-                                        <child>
-                                          <object class="GtkCheckButton" id="search1_7">
-                                            <property name="label" translatable="1">7 note</property>
-                                            <property name="focusable">1</property>
-                                          </object>
-                                        </child>
-                                        <child>
-                                          <object class="GtkCheckButton" id="search1_8">
-                                            <property name="label" translatable="1">8+ note</property>
-                                            <property name="focusable">1</property>
-                                          </object>
-                                        </child>
-                                        <child>
-                                          <object class="GtkCheckButton" id="search1_phy">
-                                            <property name="label" translatable="1">Physical</property>
-                                            <property name="focusable">1</property>
-                                          </object>
-                                        </child>
-                                        <child>
-                                          <object class="GtkCheckButton" id="search1_chords">
-                                            <property name="label" translatable="1">Chords</property>
-                                            <property name="focusable">1</property>
-                                          </object>
-                                        </child>
-                                        <child>
-                                          <object class="GtkCheckButton" id="search1_scales">
-                                            <property name="label" translatable="1">Scales</property>
-                                            <property name="focusable">1</property>
-                                          </object>
-                                        </child>
-                                        <child>
-                                          <object class="GtkCheckButton" id="search1_inexact">
-                                            <property name="label" translatable="1">Inexact</property>
-                                            <property name="focusable">1</property>
-                                          </object>
-                                        </child>
-                                        <child>
-                                          <object class="GtkComboBoxText" id="search1_inexact_value">
-                                            <items>
-                                              <item translatable="yes">1</item>
-                                              <item translatable="yes">2</item>
-                                              <item translatable="yes">3</item>
-                                              <item translatable="yes">4</item>
-                                              <item translatable="yes">5</item>
-                                              <item translatable="yes">6</item>
-                                              <item translatable="yes">7</item>
-                                            </items>
-                                          </object>
-                                        </child>
-                                        <child>
-                                          <object class="GtkButton" id="search1_search">
-                                            <property name="label" translatable="1">Search</property>
-                                            <property name="focusable">1</property>
-                                            <property name="receives-default">1</property>
-                                          </object>
-                                        </child>
-                                        <child>
-                                          <object class="GtkButton" id="search1_apply">
-                                            <property name="label" translatable="1">Apply</property>
-                                            <property name="focusable">1</property>
-                                            <property name="receives-default">1</property>
-                                          </object>
-                                        </child>
+                                      <object class="GtkCheckButton" id="search1_2">
+                                        <property name="label" translatable="1">2 note</property>
+                                        <property name="focusable">1</property>
                                       </object>
                                     </child>
                                     <child>
-                                      <object class="GtkScrolledWindow">
-                                        <property name="hexpand">1</property>
+                                      <object class="GtkCheckButton" id="search1_3">
+                                        <property name="label" translatable="1">3 note</property>
                                         <property name="focusable">1</property>
-                                        <property name="child">
-                                          <object class="GtkTreeView" id="search1_treeview">
-                                            <property name="focusable">1</property>
-                                            <child internal-child="selection">
-                                              <object class="GtkTreeSelection"/>
-                                            </child>
-                                          </object>
-                                        </property>
+                                      </object>
+                                    </child>
+                                    <child>
+                                      <object class="GtkCheckButton" id="search1_4">
+                                        <property name="label" translatable="1">4 note</property>
+                                        <property name="focusable">1</property>
+                                      </object>
+                                    </child>
+                                    <child>
+                                      <object class="GtkCheckButton" id="search1_5">
+                                        <property name="label" translatable="1">5 note</property>
+                                        <property name="focusable">1</property>
+                                      </object>
+                                    </child>
+                                    <child>
+                                      <object class="GtkCheckButton" id="search1_6">
+                                        <property name="label" translatable="1">6 note</property>
+                                        <property name="focusable">1</property>
+                                      </object>
+                                    </child>
+                                    <child>
+                                      <object class="GtkCheckButton" id="search1_7">
+                                        <property name="label" translatable="1">7 note</property>
+                                        <property name="focusable">1</property>
+                                      </object>
+                                    </child>
+                                    <child>
+                                      <object class="GtkCheckButton" id="search1_8">
+                                        <property name="label" translatable="1">8+ note</property>
+                                        <property name="focusable">1</property>
+                                      </object>
+                                    </child>
+                                    <child>
+                                      <object class="GtkCheckButton" id="search1_phy">
+                                        <property name="label" translatable="1">Physical</property>
+                                        <property name="focusable">1</property>
+                                      </object>
+                                    </child>
+                                    <child>
+                                      <object class="GtkCheckButton" id="search1_chords">
+                                        <property name="label" translatable="1">Chords</property>
+                                        <property name="focusable">1</property>
+                                      </object>
+                                    </child>
+                                    <child>
+                                      <object class="GtkCheckButton" id="search1_scales">
+                                        <property name="label" translatable="1">Scales</property>
+                                        <property name="focusable">1</property>
+                                      </object>
+                                    </child>
+                                    <child>
+                                      <object class="GtkCheckButton" id="search1_inexact">
+                                        <property name="label" translatable="1">Inexact</property>
+                                        <property name="focusable">1</property>
+                                      </object>
+                                    </child>
+                                    <child>
+                                      <object class="GtkComboBoxText" id="search1_inexact_value">
+                                        <items>
+                                          <item translatable="yes">1</item>
+                                          <item translatable="yes">2</item>
+                                          <item translatable="yes">3</item>
+                                          <item translatable="yes">4</item>
+                                          <item translatable="yes">5</item>
+                                          <item translatable="yes">6</item>
+                                          <item translatable="yes">7</item>
+                                        </items>
+                                      </object>
+                                    </child>
+                                    <child>
+                                      <object class="GtkButton" id="search1_search">
+                                        <property name="label" translatable="1">Search</property>
+                                        <property name="focusable">1</property>
+                                        <property name="receives-default">1</property>
+                                      </object>
+                                    </child>
+                                    <child>
+                                      <object class="GtkButton" id="search1_apply">
+                                        <property name="label" translatable="1">Apply</property>
+                                        <property name="focusable">1</property>
+                                        <property name="receives-default">1</property>
                                       </object>
                                     </child>
                                   </object>
-                                </property>
-                                <child type="label">
-                                  <object class="GtkLabel"/>
+                                </child>
+                                <child>
+                                  <object class="GtkScrolledWindow">
+                                    <property name="hexpand">1</property>
+                                    <property name="focusable">1</property>
+                                    <property name="child">
+                                      <object class="GtkTreeView" id="search1_treeview">
+                                        <property name="focusable">1</property>
+                                        <child internal-child="selection">
+                                          <object class="GtkTreeSelection"/>
+                                        </child>
+                                      </object>
+                                    </property>
+                                  </object>
                                 </child>
                               </object>
                             </property>

@@ -103,82 +103,22 @@
                       </packing>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">e1</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">1</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">e2</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">2</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">e3</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">3</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">e4</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">4</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">e5</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">5</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">e6</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">6</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
                       <placeholder/>
@@ -209,82 +149,22 @@
                       </packing>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">s1</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">1</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">s2</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">2</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">s3</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">3</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">s4</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">4</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">s5</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">5</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">s6</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">6</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
                       <placeholder/>
@@ -315,82 +195,22 @@
                       </packing>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">s1</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">1</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">s2</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">2</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">s3</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">3</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">s4</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">4</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">s5</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">5</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">s6</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">6</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
                       <placeholder/>
@@ -421,82 +241,22 @@
                       </packing>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">c1</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">1</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">c2</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">2</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">c3</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">3</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">c4</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">4</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">c5</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">5</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
-                      <object class="GtkButton">
-                        <property name="label" translatable="yes">c6</property>
-                        <property name="visible">True</property>
-                        <property name="can-focus">True</property>
-                        <property name="receives-default">True</property>
-                      </object>
-                      <packing>
-                        <property name="expand">False</property>
-                        <property name="fill">True</property>
-                        <property name="position">6</property>
-                      </packing>
+                      <placeholder/>
                     </child>
                     <child>
                       <placeholder/>
@@ -740,6 +500,9 @@
                           <object class="GtkTreeView" id="phy_treeview">
                             <property name="visible">True</property>
                             <property name="can-focus">True</property>
+                            <child internal-child="selection">
+                              <object class="GtkTreeSelection"/>
+                            </child>
                           </object>
                         </child>
                       </object>
@@ -887,6 +650,9 @@
                           <object class="GtkTreeView" id="scales_treeview">
                             <property name="visible">True</property>
                             <property name="can-focus">True</property>
+                            <child internal-child="selection">
+                              <object class="GtkTreeSelection"/>
+                            </child>
                           </object>
                         </child>
                       </object>
@@ -1037,6 +803,9 @@
                           <object class="GtkTreeView" id="chords_treeview">
                             <property name="visible">True</property>
                             <property name="can-focus">True</property>
+                            <child internal-child="selection">
+                              <object class="GtkTreeSelection"/>
+                            </child>
                           </object>
                         </child>
                       </object>
@@ -1291,6 +1060,9 @@
                               <object class="GtkTreeView" id="search1_treeview">
                                 <property name="visible">True</property>
                                 <property name="can-focus">True</property>
+                                <child internal-child="selection">
+                                  <object class="GtkTreeSelection"/>
+                                </child>
                               </object>
                             </child>
                           </object>
