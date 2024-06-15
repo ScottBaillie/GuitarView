@@ -36,21 +36,6 @@
                             <property name="label" translatable="1"> note : G# </property>
                           </object>
                         </child>
-                        <child>
-                          <placeholder/>
-                        </child>
-                        <child>
-                          <placeholder/>
-                        </child>
-                        <child>
-                          <placeholder/>
-                        </child>
-                        <child>
-                          <placeholder/>
-                        </child>
-                        <child>
-                          <placeholder/>
-                        </child>
                       </object>
                     </property>
                     <child type="label">
@@ -78,9 +63,6 @@
                             <property name="receives-default">1</property>
                           </object>
                         </child>
-                        <child>
-                          <placeholder/>
-                        </child>
                       </object>
                     </property>
                     <child type="label">
@@ -107,9 +89,6 @@
                             <property name="focusable">1</property>
                             <property name="receives-default">1</property>
                           </object>
-                        </child>
-                        <child>
-                          <placeholder/>
                         </child>
                       </object>
                     </property>
