@@ -594,6 +594,7 @@
         <child>
           <object class="GtkFrame">
             <property name="vexpand">1</property>
+            <property name="name">neck_frame</property>
             <property name="child">
               <object class="GtkDrawingArea" id="drawing_area">
                 <property name="width-request">800</property>
