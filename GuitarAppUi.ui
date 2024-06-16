@@ -85,14 +85,14 @@
                     <property name="child">
                       <object class="GtkBox">
                         <child>
-                          <object class="GtkButton">
+                          <object class="GtkButton" id="shiftr_button">
                             <property name="label" translatable="1">shift -&gt;</property>
                             <property name="focusable">1</property>
                             <property name="receives-default">1</property>
                           </object>
                         </child>
                         <child>
-                          <object class="GtkButton">
+                          <object class="GtkButton" id="shiftl_button">
                             <property name="label" translatable="1">&lt;- shift</property>
                             <property name="focusable">1</property>
                             <property name="receives-default">1</property>
@@ -110,14 +110,14 @@
                     <property name="child">
                       <object class="GtkBox">
                         <child>
-                          <object class="GtkButton">
+                          <object class="GtkButton" id="setcolor_button">
                             <property name="label" translatable="1">set color</property>
                             <property name="focusable">1</property>
                             <property name="receives-default">1</property>
                           </object>
                         </child>
                         <child>
-                          <object class="GtkComboBoxText">
+                          <object class="GtkComboBoxText" id="color_select">
                             <items>
                               <item translatable="yes">Color by Note</item>
                             </items>
@@ -160,14 +160,14 @@
                     <property name="child">
                       <object class="GtkBox">
                         <child>
-                          <object class="GtkButton">
+                          <object class="GtkButton" id="undo_button">
                             <property name="label" translatable="1">undo</property>
                             <property name="focusable">1</property>
                             <property name="receives-default">1</property>
                           </object>
                         </child>
                         <child>
-                          <object class="GtkButton">
+                          <object class="GtkButton" id="redo_button">
                             <property name="label" translatable="1">redo</property>
                             <property name="focusable">1</property>
                             <property name="receives-default">1</property>

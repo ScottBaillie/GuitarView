@@ -158,7 +158,7 @@
                         <property name="visible">True</property>
                         <property name="can-focus">False</property>
                         <child>
-                          <object class="GtkButton">
+                          <object class="GtkButton" id="shiftr_button">
                             <property name="label" translatable="yes">shift -&gt;</property>
                             <property name="visible">True</property>
                             <property name="can-focus">True</property>
@@ -171,7 +171,7 @@
                           </packing>
                         </child>
                         <child>
-                          <object class="GtkButton">
+                          <object class="GtkButton" id="shiftl_button">
                             <property name="label" translatable="yes">&lt;- shift</property>
                             <property name="visible">True</property>
                             <property name="can-focus">True</property>
@@ -207,7 +207,7 @@
                         <property name="visible">True</property>
                         <property name="can-focus">False</property>
                         <child>
-                          <object class="GtkButton">
+                          <object class="GtkButton" id="setcolor_button">
                             <property name="label" translatable="yes">set color</property>
                             <property name="visible">True</property>
                             <property name="can-focus">True</property>
@@ -220,7 +220,7 @@
                           </packing>
                         </child>
                         <child>
-                          <object class="GtkComboBoxText">
+                          <object class="GtkComboBoxText" id="color_select">
                             <property name="visible">True</property>
                             <property name="can-focus">False</property>
                             <items>
@@ -306,7 +306,7 @@
                         <property name="visible">True</property>
                         <property name="can-focus">False</property>
                         <child>
-                          <object class="GtkButton">
+                          <object class="GtkButton" id="undo_button">
                             <property name="label" translatable="yes">undo</property>
                             <property name="visible">True</property>
                             <property name="can-focus">True</property>
@@ -319,7 +319,7 @@
                           </packing>
                         </child>
                         <child>
-                          <object class="GtkButton">
+                          <object class="GtkButton" id="redo_button">
                             <property name="label" translatable="yes">redo</property>
                             <property name="visible">True</property>
                             <property name="can-focus">True</property>
