@@ -3,9 +3,13 @@ notebook {
     border-width: 1px;
 }
 
+scrolledwindow {
+}
+
 treeview {
-    border-style:solid;
-    border-width: 1px;
+}
+
+treeview header {
 }
 
 frame {
