@@ -1028,73 +1028,73 @@
                                       <object class="GtkBox">
                                         <property name="orientation">vertical</property>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_15">
+                                          <object class="GtkCheckButton" id="search3_2">
                                             <property name="label" translatable="1">2 note</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_16">
+                                          <object class="GtkCheckButton" id="search3_3">
                                             <property name="label" translatable="1">3 note</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_17">
+                                          <object class="GtkCheckButton" id="search3_4">
                                             <property name="label" translatable="1">4 note</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_18">
+                                          <object class="GtkCheckButton" id="search3_5">
                                             <property name="label" translatable="1">5 note</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_19">
+                                          <object class="GtkCheckButton" id="search3_6">
                                             <property name="label" translatable="1">6 note</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_20">
+                                          <object class="GtkCheckButton" id="search3_7">
                                             <property name="label" translatable="1">7 note</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_21">
+                                          <object class="GtkCheckButton" id="search3_8">
                                             <property name="label" translatable="1">8+ note</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_phy2">
+                                          <object class="GtkCheckButton" id="search3_phy">
                                             <property name="label" translatable="1">Physical</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_chords2">
+                                          <object class="GtkCheckButton" id="search3_chords">
                                             <property name="label" translatable="1">Chords</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_scales2">
+                                          <object class="GtkCheckButton" id="search3_scales">
                                             <property name="label" translatable="1">Scales</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_inexact2">
+                                          <object class="GtkCheckButton" id="search3_inexact">
                                             <property name="label" translatable="1">Inexact</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkComboBoxText" id="search1_inexact_value2">
+                                          <object class="GtkComboBoxText" id="search3_inexact_value">
                                             <items>
                                               <item translatable="yes">1</item>
                                               <item translatable="yes">2</item>
@@ -1107,14 +1107,14 @@
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkButton" id="search1_search2">
+                                          <object class="GtkButton" id="search3_search">
                                             <property name="label" translatable="1">Search</property>
                                             <property name="focusable">1</property>
                                             <property name="receives-default">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkButton" id="search1_apply2">
+                                          <object class="GtkButton" id="search3_apply">
                                             <property name="label" translatable="1">Apply</property>
                                             <property name="focusable">1</property>
                                             <property name="receives-default">1</property>
@@ -1168,73 +1168,73 @@
                                       <object class="GtkBox">
                                         <property name="orientation">vertical</property>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_22">
+                                          <object class="GtkCheckButton" id="search4_2">
                                             <property name="label" translatable="1">2 note</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_23">
+                                          <object class="GtkCheckButton" id="search4_3">
                                             <property name="label" translatable="1">3 note</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_24">
+                                          <object class="GtkCheckButton" id="search4_4">
                                             <property name="label" translatable="1">4 note</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_25">
+                                          <object class="GtkCheckButton" id="search4_5">
                                             <property name="label" translatable="1">5 note</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_26">
+                                          <object class="GtkCheckButton" id="search4_6">
                                             <property name="label" translatable="1">6 note</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_27">
+                                          <object class="GtkCheckButton" id="search4_7">
                                             <property name="label" translatable="1">7 note</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_28">
+                                          <object class="GtkCheckButton" id="search4_8">
                                             <property name="label" translatable="1">8+ note</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_phy3">
+                                          <object class="GtkCheckButton" id="search4_phy">
                                             <property name="label" translatable="1">Physical</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_chords3">
+                                          <object class="GtkCheckButton" id="search4_chords">
                                             <property name="label" translatable="1">Chords</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_scales3">
+                                          <object class="GtkCheckButton" id="search4_scales">
                                             <property name="label" translatable="1">Scales</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkCheckButton" id="search1_inexact3">
+                                          <object class="GtkCheckButton" id="search4_inexact">
                                             <property name="label" translatable="1">Inexact</property>
                                             <property name="focusable">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkComboBoxText" id="search1_inexact_value3">
+                                          <object class="GtkComboBoxText" id="search4_inexact_value">
                                             <items>
                                               <item translatable="yes">1</item>
                                               <item translatable="yes">2</item>
@@ -1247,14 +1247,14 @@
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkButton" id="search1_search3">
+                                          <object class="GtkButton" id="search4_search">
                                             <property name="label" translatable="1">Search</property>
                                             <property name="focusable">1</property>
                                             <property name="receives-default">1</property>
                                           </object>
                                         </child>
                                         <child>
-                                          <object class="GtkButton" id="search1_apply3">
+                                          <object class="GtkButton" id="search4_apply">
                                             <property name="label" translatable="1">Apply</property>
                                             <property name="focusable">1</property>
                                             <property name="receives-default">1</property>
