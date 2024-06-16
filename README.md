@@ -1,5 +1,5 @@
 # GuitarView
-A visual representation of guitar chords and scales and a search function that finds chords from patterns.
+A visual representation of guitar chords and scales and a search function that finds chords from user entered patterns.
 The application is written in C++ using GTK4 widgets (using gtkmm) and builds and runs on Linux.
 
 One function of the program is the use the search function to find chords and scales
