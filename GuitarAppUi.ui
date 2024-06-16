@@ -204,14 +204,14 @@
                                 <property name="child">
                                   <object class="GtkBox">
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="phy_delete">
                                         <property name="label" translatable="1">delete</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
                                       </object>
                                     </child>
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="phy_add">
                                         <property name="label" translatable="1">add</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
@@ -229,14 +229,14 @@
                                 <property name="child">
                                   <object class="GtkBox">
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="phy_load">
                                         <property name="label" translatable="1">load</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
                                       </object>
                                     </child>
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="phy_save">
                                         <property name="label" translatable="1">save</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
@@ -254,7 +254,7 @@
                                 <property name="child">
                                   <object class="GtkBox">
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="phy_default">
                                         <property name="label" translatable="1">set default</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
@@ -330,14 +330,14 @@
                                 <property name="child">
                                   <object class="GtkBox">
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="scales_delete">
                                         <property name="label" translatable="1">delete</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
                                       </object>
                                     </child>
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="scales_add">
                                         <property name="label" translatable="1">add</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
@@ -355,14 +355,14 @@
                                 <property name="child">
                                   <object class="GtkBox">
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="scales_load">
                                         <property name="label" translatable="1">load</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
                                       </object>
                                     </child>
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="scales_save">
                                         <property name="label" translatable="1">save</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
@@ -380,7 +380,7 @@
                                 <property name="child">
                                   <object class="GtkBox">
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="scales_default">
                                         <property name="label" translatable="1">set default</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
@@ -474,14 +474,14 @@
                                 <property name="child">
                                   <object class="GtkBox">
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="chords_delete">
                                         <property name="label" translatable="1">delete</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
                                       </object>
                                     </child>
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="chords_add">
                                         <property name="label" translatable="1">add</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
@@ -499,14 +499,14 @@
                                 <property name="child">
                                   <object class="GtkBox">
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="chords_load">
                                         <property name="label" translatable="1">load</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
                                       </object>
                                     </child>
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="chords_save">
                                         <property name="label" translatable="1">save</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
@@ -524,7 +524,7 @@
                                 <property name="child">
                                   <object class="GtkBox">
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="chords_default">
                                         <property name="label" translatable="1">set default</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
@@ -618,14 +618,14 @@
                                 <property name="child">
                                   <object class="GtkBox">
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="tuning_delete">
                                         <property name="label" translatable="1">delete</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
                                       </object>
                                     </child>
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="tuning_add">
                                         <property name="label" translatable="1">add</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
@@ -643,14 +643,14 @@
                                 <property name="child">
                                   <object class="GtkBox">
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="tuning_load">
                                         <property name="label" translatable="1">load</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
                                       </object>
                                     </child>
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="tuning_save">
                                         <property name="label" translatable="1">save</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
@@ -668,7 +668,7 @@
                                 <property name="child">
                                   <object class="GtkBox">
                                     <child>
-                                      <object class="GtkButton">
+                                      <object class="GtkButton" id="tuning_default">
                                         <property name="label" translatable="1">set default</property>
                                         <property name="focusable">1</property>
                                         <property name="receives-default">1</property>
@@ -686,7 +686,7 @@
                                 <property name="child">
                                   <object class="GtkBox">
                                     <child>
-                                      <object class="GtkComboBoxText" id="tuning_tuning">
+                                      <object class="GtkComboBoxText" id="tuning_select">
                                         <items>
                                           <item translatable="yes">Standard Tuning</item>
                                           <item translatable="yes">Drop Tuning</item>

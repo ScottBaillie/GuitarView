@@ -388,7 +388,7 @@
                                 <property name="visible">True</property>
                                 <property name="can-focus">False</property>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="phy_delete">
                                     <property name="label" translatable="yes">delete</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -402,7 +402,7 @@
                                   </packing>
                                 </child>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="phy_add">
                                     <property name="label" translatable="yes">add</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -439,7 +439,7 @@
                                 <property name="visible">True</property>
                                 <property name="can-focus">False</property>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="phy_load">
                                     <property name="label" translatable="yes">load</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -452,7 +452,7 @@
                                   </packing>
                                 </child>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="phy_save">
                                     <property name="label" translatable="yes">save</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -488,7 +488,7 @@
                                 <property name="visible">True</property>
                                 <property name="can-focus">False</property>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="phy_default">
                                     <property name="label" translatable="yes">set default</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -620,7 +620,7 @@
                                 <property name="visible">True</property>
                                 <property name="can-focus">False</property>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="scales_delete">
                                     <property name="label" translatable="yes">delete</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -634,7 +634,7 @@
                                   </packing>
                                 </child>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="scales_add">
                                     <property name="label" translatable="yes">add</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -671,7 +671,7 @@
                                 <property name="visible">True</property>
                                 <property name="can-focus">False</property>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="scales_load">
                                     <property name="label" translatable="yes">load</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -684,7 +684,7 @@
                                   </packing>
                                 </child>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="scales_save">
                                     <property name="label" translatable="yes">save</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -720,7 +720,7 @@
                                 <property name="visible">True</property>
                                 <property name="can-focus">False</property>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="scales_default">
                                     <property name="label" translatable="yes">set default</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -883,7 +883,7 @@
                                 <property name="visible">True</property>
                                 <property name="can-focus">False</property>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="chords_delete">
                                     <property name="label" translatable="yes">delete</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -897,7 +897,7 @@
                                   </packing>
                                 </child>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="chords_add">
                                     <property name="label" translatable="yes">add</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -934,7 +934,7 @@
                                 <property name="visible">True</property>
                                 <property name="can-focus">False</property>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="chords_load">
                                     <property name="label" translatable="yes">load</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -947,7 +947,7 @@
                                   </packing>
                                 </child>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="chords_save">
                                     <property name="label" translatable="yes">save</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -983,7 +983,7 @@
                                 <property name="visible">True</property>
                                 <property name="can-focus">False</property>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="chords_default">
                                     <property name="label" translatable="yes">set default</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -1145,7 +1145,7 @@
                                 <property name="visible">True</property>
                                 <property name="can-focus">False</property>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="tuning_delete">
                                     <property name="label" translatable="yes">delete</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -1159,7 +1159,7 @@
                                   </packing>
                                 </child>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="tuning_add">
                                     <property name="label" translatable="yes">add</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -1196,7 +1196,7 @@
                                 <property name="visible">True</property>
                                 <property name="can-focus">False</property>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="tuning_load">
                                     <property name="label" translatable="yes">load</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -1209,7 +1209,7 @@
                                   </packing>
                                 </child>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="tuning_save">
                                     <property name="label" translatable="yes">save</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -1245,7 +1245,7 @@
                                 <property name="visible">True</property>
                                 <property name="can-focus">False</property>
                                 <child>
-                                  <object class="GtkButton">
+                                  <object class="GtkButton" id="tuning_default">
                                     <property name="label" translatable="yes">set default</property>
                                     <property name="visible">True</property>
                                     <property name="can-focus">True</property>
@@ -1281,7 +1281,7 @@
                                 <property name="visible">True</property>
                                 <property name="can-focus">False</property>
                                 <child>
-                                  <object class="GtkComboBoxText" id="tuning_tuning">
+                                  <object class="GtkComboBoxText" id="tuning_select">
                                     <property name="visible">True</property>
                                     <property name="can-focus">False</property>
                                     <items>
