@@ -24,4 +24,11 @@ make
 
 
 
-![GuitarView](https://github.com/ScottBaillie/GuitarView/assets/9945384/47a410b9-7229-42fd-b118-9042b32046e4)
+
+![GuitarView1](https://github.com/ScottBaillie/GuitarView/assets/9945384/ad2fc5c4-e42a-4925-b879-cf681c8fdd2b)
+
+
+
+![GuitarView2](https://github.com/ScottBaillie/GuitarView/assets/9945384/d79c7b2e-ea4e-47ed-99d4-6270251fc348)
+
+
