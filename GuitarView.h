@@ -81,6 +81,26 @@ public:
 
 ///////////////////////////////////////////////////////////////////
 
+class TuningView
+{
+public:
+	TuningView(GuitarView & parent)
+		: m_parent(parent)
+	{
+	}
+
+	void init(Glib::RefPtr<Gtk::Builder> & builder, Glib::RefPtr<Gtk::Application> & app);
+
+public:
+	GuitarView &			m_parent;
+	Gtk::ComboBoxText*		m_tuningSelect;
+	Gtk::ComboBoxText*		m_tuningNumString;
+	Gtk::TreeView*			m_tuningTreeView;
+	Glib::RefPtr<Gtk::ListStore>	m_tuningModel;
+};
+
+///////////////////////////////////////////////////////////////////
+
 class Search1View
 {
 public:
@@ -202,6 +222,7 @@ public:
 		, m_physicalView(*this)
 		, m_chordView(*this)
 		, m_scaleView(*this)
+		, m_tuningView(*this)
 		, m_search1View(*this)
 		, m_neckView(*this)
 	{
@@ -218,6 +239,7 @@ public:
 	PhysicalView			m_physicalView;
 	ChordView			m_chordView;
 	ScaleView			m_scaleView;
+	TuningView			m_tuningView;
 	Search1View			m_search1View;
 	NeckView			m_neckView;
 

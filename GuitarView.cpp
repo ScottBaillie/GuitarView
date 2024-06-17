@@ -17,6 +17,7 @@ GuitarView::init(Glib::RefPtr<Gtk::Builder> & builder, Glib::RefPtr<Gtk::Applica
 	m_physicalView.init(m_builder, m_app);
 	m_chordView.init(m_builder, m_app);
 	m_scaleView.init(m_builder, m_app);
+	m_tuningView.init(m_builder, m_app);
 	m_search1View.init(m_builder, m_app);
 	m_neckView.init(m_builder, m_app);
 }
