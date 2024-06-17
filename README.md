@@ -1,6 +1,6 @@
 # GuitarView
-A visual representation of guitar chords and scales and a search function that finds chords from patterns.
-The application is written in C++ using GTK4 widgets and builds and runs on Linux.
+A visual representation of guitar chords and scales and a search function that finds chords and scales from user entered patterns.
+The application is written in C++ using GTK4 widgets (using gtkmm) and builds and runs on Linux.
 
 One function of the program is the use the search function to find chords and scales
 that match a user entered pattern.
@@ -10,7 +10,7 @@ Another function of the program is to assist in song writing by providing chord 
 
 Current Status
 --------------
-This is an alpha version, the search function works but many of the functions are not implemented yet.
+Basic features are working and remaing features are in progress.
 
 Build Requirements
 ------------------
@@ -24,4 +24,11 @@ make
 
 
 
-![GuitarView](https://github.com/ScottBaillie/GuitarView/assets/9945384/47a410b9-7229-42fd-b118-9042b32046e4)
+
+![GuitarView1](https://github.com/ScottBaillie/GuitarView/assets/9945384/ad2fc5c4-e42a-4925-b879-cf681c8fdd2b)
+
+
+
+![GuitarView2](https://github.com/ScottBaillie/GuitarView/assets/9945384/d79c7b2e-ea4e-47ed-99d4-6270251fc348)
+
+
